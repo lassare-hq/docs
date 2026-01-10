@@ -17,6 +17,10 @@ docs/
 └── concepts/            # Core concepts
 ```
 
+## Issues & Feedback
+
+Found an error or have a suggestion? [Open an issue](https://github.com/lassare-hq/docs/issues) on this repo.
+
 ## Links
 
 - [Website](https://lassare.com)

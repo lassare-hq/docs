@@ -16,4 +16,5 @@ We're preparing comprehensive documentation covering:
 
 - [Sign Up](https://portal.lassare.com/signup) - Get started for free
 - [Agent Setup](https://github.com/lassare-hq/agent-prompts) - Configure your AI agent
-- [Feedback](https://github.com/lassare-hq/feedback) - Report bugs or request features
+- [Python SDK](https://github.com/lassare-hq/sdk-python)
+- [JavaScript SDK](https://github.com/lassare-hq/sdk-js)
