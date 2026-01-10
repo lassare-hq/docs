@@ -17,9 +17,11 @@ docs/
 └── concepts/            # Core concepts
 ```
 
-## Issues & Feedback
+## Community & Support
 
-Found an error or have a suggestion? [Open an issue](https://github.com/lassare-hq/docs/issues) on this repo.
+- **Questions & Discussions**: [GitHub Discussions](https://github.com/lassare-hq/docs/discussions)
+- **Bug Reports**: Open an issue on the relevant repo
+- **Paid Support**: Available on Team, Growth, and Enterprise plans
 
 ## Links
 
