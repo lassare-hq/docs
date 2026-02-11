@@ -1,20 +1,24 @@
 # Lassare Documentation
 
-Welcome to Lassare - human-in-the-loop workflows for AI agents.
+Welcome to Lassare — human-in-the-loop workflows for AI coding agents.
 
-## Coming Soon
+## Getting Started
 
-We're preparing comprehensive documentation covering:
+- **[Sign Up](https://portal.lassare.com/signup)** — Get started for free
+- **[Agent Setup](https://github.com/lassare-hq/agent-configs)** — Configure your AI coding agent
+- **[Community](https://github.com/lassare-hq/docs/discussions)** — Questions and discussions
 
-- **Getting Started** - Quick setup guides for all supported agents
-- **Guides** - Step-by-step tutorials
-- **API Reference** - Complete API documentation
-- **SDKs** - Python and JavaScript SDK reference
-- **Concepts** - Understanding Lassare's architecture
+## What is Lassare?
 
-## Quick Links
+When your AI coding agent needs to ask you a question or get approval for a risky action, Lassare sends it to your Slack DM. You respond from your phone — the agent continues working.
 
-- [Sign Up](https://portal.lassare.com/signup) - Get started for free
-- [Agent Setup](https://github.com/lassare-hq/agent-prompts) - Configure your AI agent
-- [Python SDK](https://github.com/lassare-hq/sdk-python)
-- [JavaScript SDK](https://github.com/lassare-hq/sdk-js)
+**Two tools:**
+- **`ask`** — Agent sends a question → you reply via Slack
+- **`approve`** — Agent needs permission → you tap Approve/Deny in Slack
+
+## Supported Agents
+
+- [Claude Code](https://github.com/lassare-hq/agent-configs/tree/main/claude-code)
+- [Cursor](https://github.com/lassare-hq/agent-configs/tree/main/cursor)
+- [Gemini CLI](https://github.com/lassare-hq/agent-configs/tree/main/gemini)
+- [Other MCP clients](https://github.com/lassare-hq/agent-configs/tree/main/other)
