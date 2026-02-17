@@ -1,32 +1,46 @@
 # Lassare Documentation
 
-Official documentation for [Lassare](https://lassare.com) — human-in-the-loop workflows for AI coding agents.
+Lassare sends your AI coding agent's questions to Slack. You answer from your phone — the agent keeps working.
 
-## Getting Started
+## Quick Start
 
-1. **Sign up** at [portal.lassare.com](https://portal.lassare.com) (free tier available)
-2. **Connect Slack** in Portal → Agent Setup
+1. **Sign up** at [lassare.com](https://lassare.com) (free — 200 questions/month, no credit card)
+2. **Connect Slack** — follow the onboarding flow
 3. **Set up your agent** — download configs from [agent-configs](https://github.com/lassare-hq/agent-configs)
 
-## Documentation
+## MCP Tools
 
-Full documentation is coming soon. In the meantime:
+| Tool | Description |
+|------|-------------|
+| `ask` | Agent sends a question → you reply via Slack |
+| `approve` | Agent needs permission → you tap Approve/Deny in Slack |
 
-- **Agent setup guides** — see [agent-configs](https://github.com/lassare-hq/agent-configs) for Claude Code, Cursor, Gemini, and other MCP clients
-- **MCP tools reference** — `ask` (questions via Slack) and `approve` (yes/no approvals via Slack)
+## Supported Agents
+
+- [Claude Code](https://github.com/lassare-hq/agent-configs/tree/main/claude-code)
+- [Cursor](https://github.com/lassare-hq/agent-configs/tree/main/cursor)
+- [Gemini CLI](https://github.com/lassare-hq/agent-configs/tree/main/gemini)
+- [Other MCP clients](https://github.com/lassare-hq/agent-configs/tree/main/other)
+
+## Pricing
+
+| Plan | Price | Questions/month |
+|------|-------|-----------------|
+| Free | $0 | 200 |
+| Solo | $9/mo | 1,700 |
+| Team | Coming soon | — |
 
 ## Community & Support
 
 - **Questions & Discussions**: [GitHub Discussions](https://github.com/lassare-hq/docs/discussions) or [community.lassare.com](https://community.lassare.com)
 - **Bug Reports**: [agent-configs issues](https://github.com/lassare-hq/agent-configs/issues)
-- **Paid Support**: Available on Team, Growth, and Enterprise plans
+- **Email**: [support@lassare.com](mailto:support@lassare.com)
 
 ## Links
 
 - [Website](https://lassare.com)
-- [Portal](https://portal.lassare.com)
 - [Agent Configs](https://github.com/lassare-hq/agent-configs)
-- [GitHub](https://github.com/lassare-hq)
+- [Status](https://status.lassare.com)
 
 ## License
 
