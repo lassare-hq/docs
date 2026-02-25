@@ -27,7 +27,7 @@ Lassare sends your AI coding agent's questions to Slack. You answer from your ph
 | Plan | Price | Questions/month |
 |------|-------|-----------------|
 | Free | $0 | 200 |
-| Solo | $9/mo | 1,700 |
+| Solo | $9/mo | 2,000 |
 | Team | Coming soon | — |
 
 ## Community & Support
